@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700,700italic,800,600italic,800italic,300italic);
+
+
+body{
+	font-family: "Arial";
+}
+
+
+#notification {
+	background: #eee;
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+
+.message {
+background: #ffe;
+padding: 15px;
+border: 2px solid #ccb;
+margin: 10px 0;
+}
+
+.error{
+	/*color: red;*/
+	background: #fee;
+	border-color: #c66;
+}
+
+.success{
+	background: #72C536;
+	border-color: green;
+}
